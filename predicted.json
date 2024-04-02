@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Oh, what a delightful morning",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " I just love waking up early to the sound of my alarm clock",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " It's truly the highlight of my day",
+    "prediction": "Not Sarcastic"
+  },
+  {
+    "text": " And who wouldn't enjoy sitting in traffic for hours",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " It's such a peaceful and serene experience",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " I especially cherish the moment when my computer crashes right in the middle of an important presentation",
+    "prediction": "Not Sarcastic"
+  },
+  {
+    "text": " It's like a surprise break in my workday, truly refreshing",
+    "prediction": "Not Sarcastic"
+  },
+  {
+    "text": " And let's not forget the joy of finding out my favorite coffee shop is out of my preferred coffee blend",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " That's just the kind of variety I crave in life",
+    "prediction": "Sarcastic"
+  },
+  {
+    "text": " In conclusion, sarcasm is the spice of life, and I can't get enough of it",
+    "prediction": "Not Sarcastic"
+  }
+]
